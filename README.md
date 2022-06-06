@@ -1,3 +1,8 @@
+#Ejercicio 2 Formulario 
+
+![UD35-Ejercicio2](https://user-images.githubusercontent.com/47026018/172209034-953e92e8-3f2a-4d2c-b203-0a7bc1dfc3b9.PNG)
+
+
 # UD35AngularComponentes2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.

@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.general{
+  background-color: rgb(243, 238, 197);
+  margin-top: -20px;
+  height: 800px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+form {
+  font-size: 20px;
+  margin-left: 400px;
+  margin-right: 300px;
+}

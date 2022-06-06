@@ -1,0 +1,21 @@
+<div class="container">
+  <div class="container box mt-5">
+      <h1 *ngIf="ListaRegistros.length > 0"></h1>
+  </div>
+  <table class="table">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Email</th>
+          <th>Mensaje</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let Registro of ListaRegistros">
+          <td>{{ Registro[0] }}</td>
+          <td>{{ Registro[1] }}</td>
+          <td>{{ Registro[2] }}</td>
+      </tr>
+      </tbody>
+  </table>
+</div>
